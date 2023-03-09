@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razib</h1>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;" alt="Welcome to my GitHub Profile."/>
-</p>
+
 <h3 align="center">A passionate Unity Game developer from Bangladesh</h3>
 
 - 📫 How to reach me **raz15-4132@diu.edu.bd**
