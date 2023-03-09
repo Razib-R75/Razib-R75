@@ -2,8 +2,12 @@
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;" alt="Welcome to my GitHub Profile."/>
 </p>
-<p align="left"> <img length="350" width="280" src="https://user-images.githubusercontent.com/123752824/224039055-ac968d9c-80b2-48b2-9445-3cdb77cf9d66.gif" alt="Razib-R75"/> ,
-<img align="right" alt="Coding" length="400" width="320" src="https://user-images.githubusercontent.com/123752824/224043526-26c96278-ff2f-4383-926c-a2776c3df763.jpg" alt="kazikhalid757" /> </p>
+<h3 align="center"> <img length="350" width="280" src="https://user-images.githubusercontent.com/123752824/224039055-ac968d9c-80b2-48b2-9445-3cdb77cf9d66.gif" alt="Razib-R75"/> 
+<img align="center" alt="Coding" length="350" width="280" src="https://user-images.githubusercontent.com/123752824/224056018-2026cbf5-99e5-4961-8890-4fdd500700d1.png" alt="Razib-R75" />
+<br>
+<br><img align="right" alt="Coding" length="350" width="280" src="https://user-images.githubusercontent.com/123752824/224057482-6a793b50-fde7-4c6e-94fb-a3fcf01500e6.gif" alt="Razib-R75" /></p>
+
+
 
 
 <h3 align="center">A passionate Unity Game developer from Bangladesh</h3>
