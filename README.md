@@ -12,7 +12,7 @@
 
 <br><h3 align="center">A passionate Unity Game developer from Bangladesh</h3>
 
-- 📫 How to reach me **raz15-4132@diu.edu.bd**
+- 📫 How to reach me **razib.gamedev@gmail.com**
 - 🌱 I’m currently learning **Unity and C#**
 - ⚡ Fun fact **I think I am funny**
 
