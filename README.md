@@ -6,7 +6,7 @@
     
 <br><img align="center" alt="Coding" length="300" width="240" src="https://github.com/Razib-R75/Razib-R75/assets/123752824/35a4bf50-8d98-4b62-858c-a10ea121cd53" alt="Razib-R75" />
 <br>
-<br><img align="right" alt="Coding" length="300" width="240" src="https://user-images.githubusercontent.com/123752824/224057482-6a793b50-fde7-4c6e-94fb-a3fcf01500e6.gif" alt="Razib-R75" /></p>
+<br><img align="right" alt="Coding" length="300" width="300" src = "https://github.com/Razib-R75/Razib-R75/assets/123752824/f977a914-34f4-4c0d-bb68-0f198b9539f3" alt="Razib-R75" /></p>
 
 
 
