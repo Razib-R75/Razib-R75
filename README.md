@@ -2,8 +2,9 @@
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;" alt="Welcome to my GitHub Profile."/>
 </p>
-<h3 align="center"> <img length="300" width="240" src="https://user-images.githubusercontent.com/123752824/224039055-ac968d9c-80b2-48b2-9445-3cdb77cf9d66.gif" alt="Razib-R75"/> 
-<br><img align="center" alt="Coding" length="300" width="240" src="https://user-images.githubusercontent.com/123752824/224056018-2026cbf5-99e5-4961-8890-4fdd500700d1.png" alt="Razib-R75" />
+<h3 align="center"> <img length="300" width="240" src="https://github.com/Razib-R75/Razib-R75/assets/123752824/53a0cd33-8ee0-4532-8ad8-9949b951ec7a" alt="Razib-R75"/> 
+    
+<br><img align="center" alt="Coding" length="300" width="240" src="https://github.com/Razib-R75/Razib-R75/assets/123752824/35a4bf50-8d98-4b62-858c-a10ea121cd53" alt="Razib-R75" />
 <br>
 <br><img align="right" alt="Coding" length="300" width="240" src="https://user-images.githubusercontent.com/123752824/224057482-6a793b50-fde7-4c6e-94fb-a3fcf01500e6.gif" alt="Razib-R75" /></p>
 
