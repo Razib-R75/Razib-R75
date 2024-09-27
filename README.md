@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps tools.**
 
-- 📫 How to reach me **razib.devops@gmail.com**
+- 📫 How to reach me **razib.sqa@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
