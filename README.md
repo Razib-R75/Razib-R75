@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md.Razib Khan</h1>
-<h3 align="center">A passionate DevOps and Test Automation Engineering from Bangladesh</h3>
+<h3 align="center">A passionate SQA and Automation Engineering from Bangladesh</h3>
 
 <div align="center">
-<img src="https://github.com/Razib-R75/Razib-R75/assets/123752824/ca5a972e-4fea-466d-8d9e-c24f6a706b81" alt="profile picture" width="500" height="300">
+
 </div>
 
 - 🌱 I’m currently learning **DevOps tools.**
